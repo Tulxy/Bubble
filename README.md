@@ -60,38 +60,19 @@
 - Statistiky produktivity
 - Progres projektů (např. progress bar)
 
-### 🧠 Osobní zóna
-- Deník, sledování nálad a zdraví
-- Připomínky na léky
-- Seznam knih, filmů a cílů
-- Finance – jednoduché sledování výdajů
-- Motivační zóna – citáty, moodboardy
-
-### 🧩 Smart funkce a integrace
-- AI asistent (např. plán dne)
-- Widgety (počasí, citát dne, rychlé úkoly)
-- Offline režim
-- PWA podpora
-- Propojení s nástroji: Notion, Discord, Spotify, Google Kalendář
-- Mapa aktivit (např. kde vznikla poznámka)
-
 ---
 
 ## 🧰 Technologický stack
 
 ### Frontend
-- Angular (nebo React)
-- Tailwind CSS nebo Material UI
+- React
+- Bootsrap
 
 ### Backend
-- Firebase (Authentication, Firestore, Storage, Realtime Updates)
-- Alternativa: Node.js + Express + MongoDB (pokročilejší verze)
+- MySQL
 
 ### Mobilní verze (později)
-- Flutter (pro Android i iOS)
-- PWA jako přechodné řešení
+- Flutter
 
 ---
-
-## 🔐 Firestore struktura (příklad)
 
