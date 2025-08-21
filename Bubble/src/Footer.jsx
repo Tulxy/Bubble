@@ -2,8 +2,11 @@
 function Footer(){
 
   return(
-   <footer>
-     <p>&copy; {new Date().getFullYear()} Your website name</p>
+   <footer className="">
+     <div className="container text-center">
+       <p>&copy; {new Date().getFullYear()} All rights reserved.</p>
+       <h5>Bubble</h5>
+     </div>
    </footer>
   );
 }
